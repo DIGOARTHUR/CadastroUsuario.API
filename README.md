@@ -14,6 +14,8 @@ https://simpleicons.org/?q=react
   <img  alt="skills"  width="950" height="180" src="https://user-images.githubusercontent.com/59892368/158034522-92c70ba1-bae7-46fc-b692-77b711eebda1.png">
 </p> 
 
+
+
 ![GitHub](https://img.shields.io/github/license/DIGOARTHUR/CadastroUsuario.API)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DIGOARTHUR/CadastroUsuario.API)
 
@@ -67,7 +69,7 @@ https://simpleicons.org/?q=react
   
   
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> **CadastroUsuario.API é uma aplicação backend utilizada para cadastro, listagem, mudança de tipo de usuário (Administrador e não Administrador)** 
+> **CadastroUsuario.API é uma aplicação backend utilizada para cadastro, listagem, mudança de tipo de usuário (Administrador e não Administrador)** [Desafio - Instruções](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72)
 
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/153734890-e39524d5-25a3-4b93-8621-78cf0951e501.svg"> API - Insomnia<!---write here : Run Code - Insominia Demonstration-->
 

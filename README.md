@@ -49,12 +49,17 @@ https://simpleicons.org/?q=react
 
 
 
-<p align="center">
-  <a href="https://github.com/DIGOARTHUR/TODOs.API#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/TODOs.API#-endpoints"> Endpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/TODOs.API#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/TODOs.API#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/TODOs.API#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+  <p align="center">
+  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-api---insomnia"> API - Insomnia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-swagger"> Swagger - CadastroUsuario.API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-endpoints"> Endpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    </p> 
+   <p align="center">
+  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
 </p> 
 
   
@@ -73,7 +78,7 @@ https://simpleicons.org/?q=react
   # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/158034668-9442e16e-f593-4605-ad74-697f19165f37.svg"> Swagger<!---write here : Swagger-->
   
    <p align="center">
-  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/158039721-cf8832b2-9aef-4e9a-8f83-59c4efb2fc0f.mp4"></video>
+  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/158040826-45e466d3-7544-4cd9-8123-2a3ac99be6ae.mp4"></video>
   </p>   
    
   
@@ -146,7 +151,9 @@ yarn dev
 ```
 ✅ A sua API já está rodando!
   
-4. Agora acesse o software  [`Insomnia`](https://insomnia.rest/download) e faça o import do arquivo JSON, *Insomnia_EndPoints.json*, que se encontra neste repositório para o teste das requisições.
+4. Agora acesse o [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Chapter%20II%20-%20Desafio%2001&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDIGOARTHUR%2FCadastroUsuario.API%2Fmain%2FJSON_Insomnia%2FCadastroUsuario.API_Insomnia.json) para seja importado todos os endpoint no seu Insomnia.
+
+5. Para acessar o Swagger do projeto o link é: [Swagger - CadastroUsuario.API](http://localhost:3333/api-docs/#/)
 
   ---
   

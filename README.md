@@ -173,7 +173,9 @@ git remote -v
 ```
   
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
- Este é o Desafio do Capítulo II da Trilha NODEJS, hoje, estou focando mais no Backend para me desafiar  [@Rocketseat](https://github.com/Rocketseat) 
+ Este é o Desafio do Capítulo II da Trilha NODEJS. Hoje estou focando mais no Backend para me desafiar e ir avançando cada vez mais. Meu objetivo é poder ter uma noção melhor de aplicabilidade desta área para que eu tenha capacidade de unir ao FrontEnd.
+  
+  <!--[@Rocketseat](https://github.com/Rocketseat)--> 
  
 <!--[Notion](https://devdigoarthur.notion.site/ReactJS-93c2209743ad43dcb4e813a4dc93da05) -->
 

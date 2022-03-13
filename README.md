@@ -27,7 +27,7 @@ https://simpleicons.org/?q=react
   <a href="https://github.com/braziljs/eloquente-javascript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663192-19043371-127c-47f0-8553-0f407c51e2c5.png"><a/>
   <a href="https://nodejs.org/en/"><img  alt="NodeJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/153734840-d6c26811-ed86-47b9-bb3a-154e9fa56190.svg"><a/>
    <a href="https://insomnia.rest/download"><img  alt="Insominia"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/153734890-e39524d5-25a3-4b93-8621-78cf0951e501.svg"><a/>
-   <a href="https://insomnia.rest/download"><img  alt="Swagger"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/158034668-9442e16e-f593-4605-ad74-697f19165f37.svg"><a/>
+   <a href="https://swagger.io"><img  alt="Swagger"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/158034668-9442e16e-f593-4605-ad74-697f19165f37.svg"><a/>
 
 </p>
  <!------------------------------------Applied Concepts-->
@@ -43,12 +43,6 @@ https://simpleicons.org/?q=react
       
 
    
-
-
-
-
-
-
 ---
     
  
@@ -70,16 +64,25 @@ https://simpleicons.org/?q=react
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
 > **CadastroUsuario.API é uma aplicação backend utilizada para cadastro, listagem, mudança de tipo de usuário (Administrador e não Administrador)** 
 
+ # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/153734890-e39524d5-25a3-4b93-8621-78cf0951e501.svg"> API - Insomnia<!---write here : Run Code - Insominia Demonstration-->
 
-
-# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/154178428-61812598-6d7e-42a6-a7da-2c6c581e6ebe.png"> Endpoints<!---write here : demonstration of the application layout.  -->
-
- <p align="center">
+<p align="center">
   <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/158037966-3a9a3ffd-4533-4dab-a3e9-6643f29be11b.mp4"></video>
   </p>   
-    
-<div align="center">  
   
+  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/158034668-9442e16e-f593-4605-ad74-697f19165f37.svg"> Swagger<!---write here : Swagger-->
+  
+   <p align="center">
+  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/158039721-cf8832b2-9aef-4e9a-8f83-59c4efb2fc0f.mp4"></video>
+  </p>   
+   
+  
+ # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/154178428-61812598-6d7e-42a6-a7da-2c6c581e6ebe.png"> Endpoints<!---write here : EndPoints  -->
+  
+<div align="center">  
+ 
+  
+
 <!-- --> 
 | Requisição | Endpoints|
 |------------|--------------------------------------------|
@@ -92,12 +95,13 @@ https://simpleicons.org/?q=react
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
 
-* `TypeScript`: o uso da tipagem 
-* `S.O.L.I.D`: conheci esta ferramenta sensacional para testar as endpoints construídas na aplicação Back-End.
-* `Swagger`: conheci esta ferramenta sensacional para testar as endpoints construídas na aplicação Back-End.
-* `Classe`: conheci esta ferramenta sensacional para testar as endpoints construídas na aplicação Back-End.
+* `TypeScript`: o uso da tipagem para uma escabilidade da API.
+* `S.O.L.I.D`: o uso dos princípios e padrões de código Orientado a Objetos, facilitando a manutenção e escabilidade.
+* `Swagger`: framework utilizado para visualização e consumo de servições de uma API REST.
+* `Classe`: é usado o conceito de Classe.
 
-   
+ 
+  
   
 <!--
 * `Array e Objeto JS` (uso do map)
@@ -110,11 +114,6 @@ https://simpleicons.org/?q=react
   -->
   
 
-
-
-
-
-
 <!--
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622723-8e753e71-6bbf-46c3-b1b5-4fcc3d841a88.png"> Observações
 
@@ -124,14 +123,14 @@ https://simpleicons.org/?q=react
 
 
  
- # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142216697-dd93272c-c614-4664-9d63-c4e4dfc3e0f3.gif"> Rodando a Aplicação
+ # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142216697-dd93272c-c614-4664-9d63-c4e4dfc3e0f3.gif"> Rodando a API
  
 
 
 1. Clonar repositório:
 
 ```
-git clone https://github.com/DIGOARTHUR/TODOs.API.git
+https://github.com/DIGOARTHUR/CadastroUsuario.API.git
 ```
 
 2. Instalar dependências

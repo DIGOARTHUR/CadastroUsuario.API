@@ -11,7 +11,7 @@ https://simpleicons.org/?q=react
 
 <!--https://www.canva.com/  -->
 <p align="center">
-  <img  alt="skills"  width="950" height="180" src="https://user-images.githubusercontent.com/59892368/158034522-92c70ba1-bae7-46fc-b692-77b711eebda1.png">
+  <img  alt="skills"  src="https://user-images.githubusercontent.com/59892368/158034522-92c70ba1-bae7-46fc-b692-77b711eebda1.png">
 </p> 
 
 

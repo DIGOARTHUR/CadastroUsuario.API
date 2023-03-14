@@ -16,22 +16,30 @@ https://simpleicons.org/?q=react
 
 
 
+
 ![GitHub](https://img.shields.io/github/license/DIGOARTHUR/CadastroUsuario.API)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DIGOARTHUR/CadastroUsuario.API)
 
 
 #### Stacks:
- <!------------------------------------Tasks-->
+ <!------------------------------------STACKS-->
 <p align="left">
 
-  <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png"><a/>
-  <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149677999-f5947f0b-e535-4ba2-911c-1c5926045c35.png"><a/>
-  <a href="https://github.com/braziljs/eloquente-javascript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663192-19043371-127c-47f0-8553-0f407c51e2c5.png"><a/>
-  <a href="https://nodejs.org/en/"><img  alt="NodeJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/153734840-d6c26811-ed86-47b9-bb3a-154e9fa56190.svg"><a/>
-   <a href="https://insomnia.rest/download"><img  alt="Insominia"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/153734890-e39524d5-25a3-4b93-8621-78cf0951e501.svg"><a/>
-   <a href="https://swagger.io"><img  alt="Swagger"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/158034668-9442e16e-f593-4605-ad74-697f19165f37.svg"><a/>
+
+ <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762527-ae3afe1f-fe36-46a9-98ad-35dbae4d1adf.svg"><a/>
+  <a href="https://nodejs.org/en/"><img  alt="NodeJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/225148464-81734ea0-e787-4397-bd49-312264335a58.svg"><a/>
+  
 
 </p>
+
+
+ <!------------------------------------TOOLS-->
+ #### Tools:
+ <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381414-d3066c8b-c3ee-4fae-943d-481857e88000.svg"><a/>
+ <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381109-88617798-75ae-4f3a-bc4a-1210637f818c.svg"><a/>
+  <a href="https://yarnpkg.com"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/197615074-2e78b82c-b853-455c-8920-272cf1ce6399.svg"><a/>   <a href="https://insomnia.rest/download"><img  alt="Insominia"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/153734890-e39524d5-25a3-4b93-8621-78cf0951e501.svg"><a/>
+ <a href="https://swagger.io"><img  alt="Swagger"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/158034668-9442e16e-f593-4605-ad74-697f19165f37.svg"><a/>
+
  <!------------------------------------Applied Concepts-->
  
 
@@ -46,12 +54,8 @@ https://simpleicons.org/?q=react
 
    
 ---
-    
+  <!------------------------------------SUMMARY-->   
  
-
-
-
-
   <p align="center">
   <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-api---insomnia"> API - Insomnia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -67,23 +71,15 @@ https://simpleicons.org/?q=react
   
   
   
-  
+ 
+  <!------------------------------------DESCRIPTION -->  
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> **CadastroUsuario.API é uma aplicação backend utilizada para cadastro, listagem, mudança de tipo de usuário (Administrador e não Administrador)** [Desafio - Instruções](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72)
+> CadastroUsuario.API é uma aplicação backend utilizada para cadastro, listagem, mudança de tipo de usuário (Administrador e não Administrador) [Desafio - Instruções](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72)
 
- # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/153734890-e39524d5-25a3-4b93-8621-78cf0951e501.svg"> API - Insomnia<!---write here : Run Code - Insominia Demonstration-->
 
-<p align="center">
-  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/158037966-3a9a3ffd-4533-4dab-a3e9-6643f29be11b.mp4"></video>
-  </p>   
   
-  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/158034668-9442e16e-f593-4605-ad74-697f19165f37.svg"> Swagger<!---write here : Swagger-->
-  
-   <p align="center">
-  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/158040826-45e466d3-7544-4cd9-8123-2a3ac99be6ae.mp4"></video>
-  </p>   
-   
-  
+
+<!-- ENDPOINTS--> 
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/154178428-61812598-6d7e-42a6-a7da-2c6c581e6ebe.png"> Endpoints<!---write here : EndPoints  -->
   
 <div align="center">  
@@ -98,7 +94,45 @@ https://simpleicons.org/?q=react
 |    PATCH   | http://localhost:3333/users/:user_id/admin |
 |    POST    | http://localhost:3333/users                |
   
-</div>  
+</div> 
+
+
+
+<!------------------------------------LIST: STACKS , LIBS & TOOLS-->
+
+## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks <!---write here: learned concepts; -->
+
+### Lógica 
+*  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-TypeScript-/?logo=TypeScript&logoColor=white&color=informational)<a/>
+   * [`TypeScript`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript, oferecendo melhores ferramentas em qualquer escala.)
+     * [`Class`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Método para iterar uma array, possibilitando retornar uma outra array.)
+     * [`Find`](https://blog.betrybe.com/javascript/javascript-filter/)(Método para filtrar uma array)
+     * [`Object.assign`](https://www.w3schools.com/js/js_math.asp) (Método para fins matemáticos, cálculos.)
+
+ ### Framework & Libs
+   
+* <a href=""> ![Alt ou título da imagem](https://img.shields.io/badge/-NodeJS-/?logo=Node.JS&logoColor=white&color=green)<a/> 
+  * [`Express`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
+    * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
+
+
+### Gerenciador / Pacotes
+<a href="https://yarnpkg.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Yarn-/?logo=Yarn&logoColor=white&color=blue)<a/> 
+   * [`express`](https://www.npmjs.com/package/express) (Framework para Node.js)
+   * [`swagger-ui-express`](https://www.npmjs.com/package/swagger-ui-express) (Biblioteca usada para documentar e testar rotas.)
+   * [`ts-node`](https://www.npmjs.com/package/ts-node) (Biblioteca usada para aplicar o TypeScript)
+   * [`uuid`](https://www.npmjs.com/package/uuid) (Biblioteca usada para gerar identificador único universal)
+   
+   
+  ### Versionameto
+ <a href="https://git-scm.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Git-/?logo=Git&logoColor=white&color=red)<a/> 
+ ### IDE
+ <a href="https://code.visualstudio.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-VisualStudioCode-/?logo=VisualStudioCode&logoColor=white&color=informational)<a/>  
+
+
+
+
+<!------------------------------------LIST: STACKS , LIBS & TOOLS-->
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
 
@@ -109,23 +143,20 @@ https://simpleicons.org/?q=react
 
  
   
-  
-<!--
-* `Array e Objeto JS` (uso do map)
-* `CSS` (Grid e FlexBox)
-* React
-  * [`Propriedade`](https://devdigoarthur.notion.site/Propriedades-c51db4c88a264741bb09389fe20a25f7) (Aplicar passagem de propriedades nos Componentes)
-  * [`Componente`](https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73) ( Divisão de elementos da aplicação)
-  * [`Estado`](https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67) (UseState() - Controle de mudança de dados)
-  * [`Router`](https://devdigoarthur.notion.site/Router-be30e083aad146eea64c89258434a024) ((Navegação pela a aplicação))
-  -->
+
   
 
-<!--
-# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622723-8e753e71-6bbf-46c3-b1b5-4fcc3d841a88.png"> Observações
+ # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/153734890-e39524d5-25a3-4b93-8621-78cf0951e501.svg"> API - Insomnia<!---write here : Run Code - Insominia Demonstration-->
 
-:white_check_mark: FrontEnd
--->
+<p align="center">
+  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/158037966-3a9a3ffd-4533-4dab-a3e9-6643f29be11b.mp4"></video>
+  </p>   
+  
+  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/158034668-9442e16e-f593-4605-ad74-697f19165f37.svg"> Swagger<!---write here : Swagger-->
+  
+   <p align="center">
+  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/158040826-45e466d3-7544-4cd9-8123-2a3ac99be6ae.mp4"></video>
+  </p>   
 
 
 

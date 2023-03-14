@@ -103,23 +103,27 @@ https://simpleicons.org/?q=react
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks <!---write here: learned concepts; -->
 
 ### Lógica 
-*  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-TypeScript-/?logo=TypeScript&logoColor=white&color=informational)<a/>
+  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-TypeScript-/?logo=TypeScript&logoColor=white&color=informational)<a/>
    * [`TypeScript`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript, oferecendo melhores ferramentas em qualquer escala.)
      * [`Class`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Método para iterar uma array, possibilitando retornar uma outra array.)
      * [`Find`](https://blog.betrybe.com/javascript/javascript-filter/)(Método para filtrar uma array)
      * [`Object.assign`](https://www.w3schools.com/js/js_math.asp) (Método para fins matemáticos, cálculos.)
-
+      
  ### Framework & Libs
    
-* <a href=""> ![Alt ou título da imagem](https://img.shields.io/badge/-NodeJS-/?logo=Node.JS&logoColor=white&color=green)<a/> 
+<a href=""> ![Alt ou título da imagem](https://img.shields.io/badge/-NodeJS-/?logo=Node.JS&logoColor=white&color=green)<a/> 
   * [`Express`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
     * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
-
+  
+### Escabilidade
+<a href=""> ![Alt ou título da imagem](https://img.shields.io/badge/-SOLID-/?logo=&logoColor=white&color=red)<a/> 
+   * [`SOLID`](https://www.npmjs.com/package/express) (Princípios do design orientado a objeto (OOD) para uma melhor escabilidade do software)
+ 
 
 ### Gerenciador / Pacotes
 <a href="https://yarnpkg.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Yarn-/?logo=Yarn&logoColor=white&color=blue)<a/> 
    * [`express`](https://www.npmjs.com/package/express) (Framework para Node.js)
-   * [`swagger-ui-express`](https://www.npmjs.com/package/swagger-ui-express) (Biblioteca usada para documentar e testar rotas.)
+   * [`swagger-ui-express`](https://www.npmjs.com/package/swagger-ui-express) ( Biblioteca utilizada para visualização e consumo de servições de uma API REST)
    * [`ts-node`](https://www.npmjs.com/package/ts-node) (Biblioteca usada para aplicar o TypeScript)
    * [`uuid`](https://www.npmjs.com/package/uuid) (Biblioteca usada para gerar identificador único universal)
    
@@ -129,23 +133,8 @@ https://simpleicons.org/?q=react
  ### IDE
  <a href="https://code.visualstudio.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-VisualStudioCode-/?logo=VisualStudioCode&logoColor=white&color=informational)<a/>  
 
-
-
-
-<!------------------------------------LIST: STACKS , LIBS & TOOLS-->
-
-## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos abordados: <!---write here: learned concepts ;    -->
-
-* `TypeScript`: o uso da tipagem para uma escabilidade da API.
-* `S.O.L.I.D`: o uso dos princípios e padrões de código Orientado a Objetos, facilitando a manutenção e escabilidade.
-* `Swagger`: framework utilizado para visualização e consumo de servições de uma API REST.
-* `Classe`: é usado o conceito de Classe.
-
- 
-  
-
-  
-
+   
+   
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/153734890-e39524d5-25a3-4b93-8621-78cf0951e501.svg"> API - Insomnia<!---write here : Run Code - Insominia Demonstration-->
 
 <p align="center">

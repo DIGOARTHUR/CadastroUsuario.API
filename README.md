@@ -52,14 +52,13 @@ https://simpleicons.org/?q=react
  
   <p align="center">
   <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-endpoints"> Endpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-stacks-">Stacks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
-
-  </p> 
-   <p align="center">
   <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-api---insomnia"> API - Insomnia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-swagger"> Swagger - CadastroUsuario.API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-endpoints"> Endpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    </p> 
+   <p align="center">
+  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-rodando-a-api">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
 </p> 
 
@@ -100,9 +99,9 @@ https://simpleicons.org/?q=react
 ### Lógica 
   <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-TypeScript-/?logo=TypeScript&logoColor=white&color=informational)<a/>
    * [`TypeScript`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript, oferecendo melhores ferramentas em qualquer escala.)
-     * [`Class`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Método para iterar uma array, possibilitando retornar uma outra array.)
-     * [`Find`](https://blog.betrybe.com/javascript/javascript-filter/)(Método para filtrar uma array)
-     * [`Object.assign`](https://www.w3schools.com/js/js_math.asp) (Faz a transferencia das propriedades de um Objeto para outro. Uma junção. )
+     * [`Class`](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/) (Classes em JavaScript provêm uma maneira mais simples e clara de criar objetos e lidar com herança)
+     * [`Find`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)(Método usado para encontrar um elemento buscado. Ele retorna o primeiro elemento da array identificado como True.)
+     * [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign) ((Faz a transferencia das propriedades de um Objeto para outro. Uma junção. )
       
  ### Framework & Libs
    
@@ -112,7 +111,7 @@ https://simpleicons.org/?q=react
   
 ### Escabilidade
 <a href=""> ![Alt ou título da imagem](https://img.shields.io/badge/-SOLID-/?logo=&logoColor=white&color=red)<a/> 
-   * [`SOLID`](https://www.npmjs.com/package/express) (Princípios do design orientado a objeto (OOD) para uma melhor escabilidade do software)
+   * [`SOLID`](https://medium.com/@gabrielorlando_12302/solid-no-node-js-54010ce7d21c) (Princípios do design orientado a objeto (OOD) para uma melhor escabilidade do software)
  
 
 ### Gerenciador / Pacotes

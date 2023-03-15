@@ -111,7 +111,7 @@ https://simpleicons.org/?q=react
   
 ### Escabilidade
 <a href=""> ![Alt ou título da imagem](https://img.shields.io/badge/-SOLID-/?logo=&logoColor=white&color=red)<a/> 
-   * [`SOLID`](https://www.npmjs.com/package/express) (Princípios do design orientado a objeto (OOD) para uma melhor escabilidade do software)
+   * [`SOLID`](https://medium.com/@gabrielorlando_12302/solid-no-node-js-54010ce7d21c) (Princípios do design orientado a objeto (OOD) para uma melhor escabilidade do software)
  
 
 ### Gerenciador / Pacotes

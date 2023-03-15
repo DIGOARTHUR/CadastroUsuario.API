@@ -40,16 +40,10 @@ https://simpleicons.org/?q=react
   <a href="https://yarnpkg.com"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/197615074-2e78b82c-b853-455c-8920-272cf1ce6399.svg"><a/>   <a href="https://insomnia.rest/download"><img  alt="Insominia"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/153734890-e39524d5-25a3-4b93-8621-78cf0951e501.svg"><a/>
  <a href="https://swagger.io"><img  alt="Swagger"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/158034668-9442e16e-f593-4605-ad74-697f19165f37.svg"><a/>
 
- <!------------------------------------Applied Concepts-->
+
  
 
-<a href="https://devdigoarthur.notion.site/Find-15db7431a72b4731af85671b65c88601"> ![Alt ou título da imagem](https://img.shields.io/badge/-Find-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
-<a href=""> ![Alt ou título da imagem](https://img.shields.io/badge/-Object.assign-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
-<a href=""> ![Alt ou título da imagem](https://img.shields.io/badge/-Class-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
-<a href="https://www.notion.so/devdigoarthur/Express-ec671f667c994bd2a28b7f6d99da6df0#2b3f574526614c19957987c3064cde80"> ![Alt ou título da imagem](https://img.shields.io/badge/-POST-/?logo=Node.js&logoColor=white&color=green)<a/>
-<a href="https://www.notion.so/devdigoarthur/Express-ec671f667c994bd2a28b7f6d99da6df0#97dfbed0bdd84485a2703114f7949b7f"> ![Alt ou título da imagem](https://img.shields.io/badge/-GET-/?logo=Node.js&logoColor=white&color=green)<a/>
-<a href="https://www.notion.so/devdigoarthur/Express-ec671f667c994bd2a28b7f6d99da6df0#eeb9e721230a4157aa26f588c75fb549"> ![Alt ou título da imagem](https://img.shields.io/badge/-PATCH-/?logo=Node.js&logoColor=white&color=green)<a/>
-<a href=""> ![Alt ou título da imagem](https://img.shields.io/badge/-uuidV4-/?logo=Node.js&logoColor=white&color=green)<a/>
+
       
 
    
@@ -112,8 +106,8 @@ https://simpleicons.org/?q=react
  ### Framework & Libs
    
 <a href=""> ![Alt ou título da imagem](https://img.shields.io/badge/-NodeJS-/?logo=Node.JS&logoColor=white&color=green)<a/> 
-  * [`Express`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
-    * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
+  * [`Express`](https://reactjs.org/docs/components-and-props.html) (Framework para Nodejs)
+   
   
 ### Escabilidade
 <a href=""> ![Alt ou título da imagem](https://img.shields.io/badge/-SOLID-/?logo=&logoColor=white&color=red)<a/> 

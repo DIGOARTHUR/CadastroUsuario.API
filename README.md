@@ -50,18 +50,18 @@ https://simpleicons.org/?q=react
 ---
   <!------------------------------------SUMMARY-->   
  
-  <p align="center">
-  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-api---insomnia"> API - Insomnia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-swagger"> Swagger - CadastroUsuario.API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-endpoints"> Endpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    </p> 
    <p align="center">
-  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+       <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-endpoints"> Endpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+       <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-stacks-">Stacks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    </p> 
+   
+   <p align="center">
+ <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-api---insomnia"> API - Insomnia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-swagger"> Swagger - CadastroUsuario.API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-rodando-a-api">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/CadastroUsuario.API#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
 </p> 
-
   
   
   
@@ -127,22 +127,10 @@ https://simpleicons.org/?q=react
  ### IDE
  <a href="https://code.visualstudio.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-VisualStudioCode-/?logo=VisualStudioCode&logoColor=white&color=informational)<a/>  
 
-   
-   
- # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/153734890-e39524d5-25a3-4b93-8621-78cf0951e501.svg"> API - Insomnia<!---write here : Run Code - Insominia Demonstration-->
-
-<p align="center">
-  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/158037966-3a9a3ffd-4533-4dab-a3e9-6643f29be11b.mp4"></video>
-  </p>   
   
-  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/158034668-9442e16e-f593-4605-ad74-697f19165f37.svg"> Swagger<!---write here : Swagger-->
-  
-   <p align="center">
-  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/158040826-45e466d3-7544-4cd9-8123-2a3ac99be6ae.mp4"></video>
-  </p>   
 
 
-
+<!---RODANDO APLICAÇÃO-->
  
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142216697-dd93272c-c614-4664-9d63-c4e4dfc3e0f3.gif"> Rodando a API
  
@@ -188,6 +176,21 @@ git remote set-url origin <LinkDoNovoRepositorio>
 git remote -v
 ```
   
+<!---INSOMNIA / SWAGGER-->   
+   
+ # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/153734890-e39524d5-25a3-4b93-8621-78cf0951e501.svg"> API - Insomnia<!---write here : Run Code - Insominia Demonstration-->
+
+<p align="center">
+  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/158037966-3a9a3ffd-4533-4dab-a3e9-6643f29be11b.mp4"></video>
+  </p>   
+  
+  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/158034668-9442e16e-f593-4605-ad74-697f19165f37.svg"> Swagger<!---write here : Swagger-->
+  
+   <p align="center">
+  <video  alt="gif_"  src="https://user-images.githubusercontent.com/59892368/158040826-45e466d3-7544-4cd9-8123-2a3ac99be6ae.mp4"></video>
+  </p>    
+   
+   
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
  Este é o Desafio do Capítulo II da Trilha NODEJS. Hoje estou focando mais no Backend para me desafiar e ir avançando cada vez mais. Meu objetivo é poder ter uma noção melhor de aplicabilidade desta área para que eu tenha capacidade de unir ao FrontEnd.
   

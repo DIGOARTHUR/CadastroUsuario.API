@@ -106,7 +106,7 @@ https://simpleicons.org/?q=react
  ### Framework & Libs
    
 <a href=""> ![Alt ou título da imagem](https://img.shields.io/badge/-NodeJS-/?logo=Node.JS&logoColor=white&color=green)<a/> 
-  * [`Express`](https://reactjs.org/docs/components-and-props.html) (Framework para Nodejs)
+  * [`Express`](https://www.npmjs.com/package/express) (Framework para Nodejs)
    
   
 ### Escabilidade

@@ -99,9 +99,9 @@ https://simpleicons.org/?q=react
 ### Lógica 
   <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-TypeScript-/?logo=TypeScript&logoColor=white&color=informational)<a/>
    * [`TypeScript`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript, oferecendo melhores ferramentas em qualquer escala.)
-     * [`Class`](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/) (Classes em JavaScript provêm uma maneira mais simples e clara de criar objetos e lidar com herança)
-     * [`Find`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)(Método usado para encontrar um elemento buscado. Ele retorna o primeiro elemento da array identificado como True.)
-     * [`Object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign) ((Faz a transferencia das propriedades de um Objeto para outro. Uma junção. )
+     * [`class`](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/) (Classes em JavaScript provêm uma maneira mais simples e clara de criar objetos e lidar com herança)
+     * [`find`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)(Método usado para encontrar um elemento buscado. Ele retorna o primeiro elemento da array identificado como True.)
+     * [`object.assign`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign) ((Faz a transferencia das propriedades de um Objeto para outro. Uma junção. )
       
  ### Framework & Libs
    
